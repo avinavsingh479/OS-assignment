@@ -73,4 +73,3 @@ This repository is maintained for Operating System lab practicals, academic lear
 
 ---
 
-⭐ Feel free to explore the programs and learn from the implementations!
